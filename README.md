@@ -43,45 +43,14 @@ bangladeshi-fish-detection-yolo11/
 - NumPy
 - Pandas
 - Matplotlib
+## How to Run
 
-## Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/sadiashatabdi/smart-city-waste-infrastructure-detection.git
-cd smart-city-waste-infrastructure-detection
-```
-
-2. Create a virtual environment:
-
-```bash
-python -m venv venv
-source venv/bin/activate      # Linux/macOS
-venv\Scripts\activate         # Windows
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-If `requirements.txt` is not available, install the necessary libraries manually:
-
-```bash
-pip install ultralytics opencv-python notebook matplotlib numpy pandas
-```
-
-## Running the Notebooks
-
-Open the notebooks in the `notebooks/` folder using Jupyter:
-
-```bash
-jupyter notebook
-```
-
-Then open the relevant notebook and run the cells in order.
+1. Clone this repository.
+2. Install the required Python libraries.
+3. Open the notebook in Kaggle or Jupyter Notebook.
+4. Download or connect the dataset from Roboflow.
+5. Configure the dataset path and `data.yaml`.
+6. Run the notebook cells in sequence to train and evaluate the model.
 
 ## Example Inference
 
