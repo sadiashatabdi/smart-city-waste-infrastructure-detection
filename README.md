@@ -26,13 +26,16 @@ bangladeshi-fish-detection-yolo11/
 ├── requirements.txt
 │
 ├── notebooks/
-│   └── fish-detection-yolo11s.ipynb
+│   └── yolov11 model train and evaluation.ipynb
+|   └── yolov11-smart-city load dataset.ipynb
+|   └── yolov11-smart-city prediction result.ipynb
 │
 └── assets/
     ├── prediction-examples.png
     ├── confusion-matrix.png
-    ├── confusion-matrix-normalized.png
-    └── train-validation-loss.png
+    └── train-validation Matrix.png
+    └── precision,recall and F1-Score.png
+
 ```
 ## Tech Stack
 
