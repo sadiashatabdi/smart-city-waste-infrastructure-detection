@@ -18,6 +18,7 @@ The goal of this project is to build an intelligent vision system to identify an
 
 ## Repository Structure
 
+```text
 bangladeshi-fish-detection-yolo11/
 │
 ├── README.md
@@ -32,7 +33,7 @@ bangladeshi-fish-detection-yolo11/
     ├── confusion-matrix.png
     ├── confusion-matrix-normalized.png
     └── train-validation-loss.png
-
+```
 ## Tech Stack
 
 - Python
