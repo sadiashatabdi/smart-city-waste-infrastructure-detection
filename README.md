@@ -70,7 +70,7 @@ results[0].show()
 1. Prepare and label the dataset
 2. Train the YOLOv11s model
 3. Validate the model on test data
-4. Run prediction on new images or videos
+4. Run prediction on new images 
 5. Analyze model output and improve dataset quality
 
 ## Notes
