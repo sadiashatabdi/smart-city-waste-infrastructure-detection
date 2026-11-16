@@ -18,17 +18,20 @@ The goal of this project is to build an intelligent vision system to identify an
 
 ## Repository Structure
 
-```text
-smart-city-waste-infrastructure-detection/
-├── notebooks/                  # Jupyter notebooks for training and analysis
-├── data/                       # Dataset images and labels (if added)
-├── runs/                       # Model training outputs
-├── weights/                    # Checkpoint files
-├── README.md                   # Project description
-├── requirements.txt             # Python dependencies
-├── .gitignore                  # Ignore files
-└── LICENSE                     # Optional license file
-```
+bangladeshi-fish-detection-yolo11/
+│
+├── README.md
+├── .gitignore
+├── requirements.txt
+│
+├── notebooks/
+│   └── fish-detection-yolo11s.ipynb
+│
+└── assets/
+    ├── prediction-examples.png
+    ├── confusion-matrix.png
+    ├── confusion-matrix-normalized.png
+    └── train-validation-loss.png
 
 ## Tech Stack
 
